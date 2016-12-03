@@ -1,0 +1,135 @@
+{
+    "answer": {
+        "1": "1",
+        "2": "4",
+        "3": "4",
+        "4": "4",
+        "5": "4"
+    },
+    "questionnaireTemp": {
+        "datachangeCreatetime": 1479468463000,
+        "datachangeLasttime": 1479893973000,
+        "deadline": 1478777679000,
+        "owner": "xx",
+        "questionnaireQuestionList": [
+            {
+                "datachangeCreatetime": 1479468480000,
+                "datachangeLasttime": 1479883333000,
+                "qqid": 133,
+                "responseQuestion": {
+                    "choices": "{\"1\":\"帅哥\",\"2\":\"帅哥\",\"3\":\"大帅哥\",\"4\":\"大大帅哥\"}",
+                    "correct": "2",
+                    "datachangeCreatetime": 1479468480000,
+                    "datachangeLasttime": 1479883333000,
+                    "items": {
+                        "1": "帅哥",
+                        "2": "帅哥",
+                        "3": "大帅哥",
+                        "4": "大大帅哥"
+                    },
+                    "owner": "spj",
+                    "questiontype": 1,
+                    "tag": "",
+                    "title": "小明叫什么？",
+                    "topstar": 0
+                }
+            },
+            {
+                "datachangeCreatetime": 1479468472000,
+                "datachangeLasttime": 1479883333000,
+                "qqid": 134,
+                "responseQuestion": {
+                    "choices": "{\"1\":\"很好\",\"2\":\"还好\",\"3\":\"一般\",\"4\":\"较差\",\"5\":\"很差\"}",
+                    "correct": "4",
+                    "datachangeCreatetime": 1479468472000,
+                    "datachangeLasttime": 1479883333000,
+                    "items": {
+                        "1": "很好",
+                        "2": "还好",
+                        "3": "一般",
+                        "4": "较差",
+                        "5": "很差"
+                    },
+                    "owner": "spj",
+                    "questiontype": 1,
+                    "tag": "",
+                    "title": "给你的工作打个分数吧？",
+                    "topstar": 0
+                }
+            },
+            {
+                "datachangeCreatetime": 1479883333000,
+                "datachangeLasttime": 1479883333000,
+                "qqid": 142,
+                "responseQuestion": {
+                    "choices": "{\"1\":\"猫咪\",\"2\":\"汪汪\",\"3\":\"老鼠\",\"4\":\"大象\",\"5\":\"老虎\"}",
+                    "correct": "0",
+                    "datachangeCreatetime": 1479883333000,
+                    "datachangeLasttime": 1479883333000,
+                    "items": {
+                        "1": "猫咪",
+                        "2": "汪汪",
+                        "3": "老鼠",
+                        "4": "大象",
+                        "5": "老虎"
+                    },
+                    "owner": "spj",
+                    "questiontype": 1,
+                    "tag": "''",
+                    "title": "你喜欢什么样的小动物？",
+                    "topstar": 0
+                }
+            },
+            {
+                "datachangeCreatetime": 1479883333000,
+                "datachangeLasttime": 1479883333000,
+                "qqid": 143,
+                "responseQuestion": {
+                    "choices": "{\"1\":\"范伟\",\"2\":\"大鹏\",\"3\":\"冯巩\",\"4\":\"章子怡\",\"5\":\"汪峰\"}",
+                    "correct": "0",
+                    "datachangeCreatetime": 1479883333000,
+                    "datachangeLasttime": 1479883333000,
+                    "items": {
+                        "1": "范伟",
+                        "2": "大鹏",
+                        "3": "冯巩",
+                        "4": "章子怡",
+                        "5": "汪峰"
+                    },
+                    "owner": "spj",
+                    "questiontype": 1,
+                    "tag": "''",
+                    "title": "你喜欢哪位明星？",
+                    "topstar": 0
+                }
+            },
+            {
+                "datachangeCreatetime": 1479883333000,
+                "datachangeLasttime": 1479883333000,
+                "qqid": 144,
+                "responseQuestion": {
+                    "choices": "{\"1\":\"姚明\",\"2\":\"张继科\",\"3\":\"马龙\",\"4\":\"张浩\",\"5\":\"罗纳尔多\"}",
+                    "correct": "0",
+                    "datachangeCreatetime": 1479883333000,
+                    "datachangeLasttime": 1479883333000,
+                    "items": {
+                        "1": "姚明",
+                        "2": "张继科",
+                        "3": "马龙",
+                        "4": "张浩",
+                        "5": "罗纳尔多"
+                    },
+                    "owner": "spj",
+                    "questiontype": 1,
+                    "tag": "''",
+                    "title": "你喜欢哪位球员？",
+                    "topstar": 0
+                }
+            }
+        ],
+        "questionnaireid": 70,
+        "reviewer": "cj",
+        "starttime": 1478777679000,
+        "title": "关于携程员工福利的问卷4"
+    }
+}
